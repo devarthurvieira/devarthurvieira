@@ -5,5 +5,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deviniciante2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+![Snake animation](https://github.com/deviniciante2004/deviniciante2004/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
