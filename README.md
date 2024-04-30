@@ -7,7 +7,6 @@
 
 ###
 
-![Snake animation](https://github.com/deviniciante2004/deviniciante2004/blob/output/github-contribution-grid-snake.svg)
 
 
 
